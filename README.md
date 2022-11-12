@@ -4,5 +4,5 @@
 <div id="header" align="center">
   <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom.jpg" width="200" height = "150"/>
   <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom2.jpg" width="200"/>
-  <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom3.jpg" width="200"/>
+  <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom3.jpg" width="200" height = "150"/>
 </div>

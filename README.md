@@ -1,5 +1,19 @@
 ##### Привет! Я Таня Сидорюк. 
-Окончила магистратуру Высшей школы экономики по направлению бизнес-информатика. Много лет я работала в крупных FMCG и консалтинговых компаниях в качестве аналитика, участвовала в проектах по внедрению ERP систем. В последнее время занимаюсь мобильной разработкой IOS. 
+- Swift, XCode
+- UIKit, Foundation
+- AutoLayout, Storyboard, верстка UI кодом, NSLayoutConstraint
+- HTTP (Alafimore, URLSession)
+- CoreLocation
+- CocoaPods
+- SkeletonView
+- GCD
+- понимание основных принципов ООП и паттернов проектирования
+- SOLID
+- UserDefaults
+- Realm, CoreData, SQLite
+- работа с БД Firebase
+- английский: Upper-Intermediate (B2)
+- Jira, Figma, Github, Teams, Confluence etc.
 
 <div id="header" align="center">
   <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom.jpg" width="200" height = "150"/>

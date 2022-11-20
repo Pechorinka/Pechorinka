@@ -1,4 +1,4 @@
-##### Привет! Я Таня Сидорюк. 
+### Привет! Я Таня Сидорюк. 
 - Swift, XCode
 - UIKit, Foundation
 - AutoLayout, Storyboard, верстка UI кодом, NSLayoutConstraint
